@@ -3,9 +3,12 @@
 
                 <item
                     android:drawable="@drawable/primer_layer"
-                    android:duration="4500"/>
+                    android:duration="1000"/>
                 <item
                     android:drawable="@drawable/segundo_layer"
-                    android:duration="4500"/>
+                    android:duration="1000"/>
+                 <item
+                    android:drawable="@drawable/tercer_layer"
+                    android:duration="1000"/>
 
     </animation-list>
